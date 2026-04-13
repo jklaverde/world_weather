@@ -1,6 +1,16 @@
+# International University (Internationale Hochschule) - Written assignment complementary project
 
 '''
+This academic project is complementary to written assignment of the course "Data Quality and Data Wrangling" (DLBDSDQDW01)
 
+Task: Scrape the Web
+Student Name: Juan Carlos Laverde
+Student Id: UPS10797707
+Tutor: Dr. PhD. Christian Müller-Kett
+
+
+The project has as purpose to practice and train the skills acquired along the course
+specifically scrapping a web application through APIs, in this case
 
 '''
 
