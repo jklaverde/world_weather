@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Dogiyai",
+        "cityLatitude": "-4.010145000",
+        "cityLongitude": "136.036502000",
+        "cityId": 3127,
+        "isCapital": false,
+        "stationName": "Kab. Dogiyai",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0900",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Fog",
+                    "minTemp": "9",
+                    "maxTemp": "19",
+                    "minTempF": "48",
+                    "maxTempF": "66",
+                    "weatherIcon": 1601
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Mostly Cloudy",
+                    "minTemp": "8",
+                    "maxTemp": "20",
+                    "minTempF": "46",
+                    "maxTempF": "68",
+                    "weatherIcon": 2302
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "6",
+                    "maxTemp": "20",
+                    "minTempF": "43",
+                    "maxTempF": "68",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

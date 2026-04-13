@@ -1,0 +1,45 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kota Gunung Sitoli",
+        "cityLatitude": "1.252700000",
+        "cityLongitude": "97.619600000",
+        "cityId": 3458,
+        "isCapital": false,
+        "stationName": "Kota Gunung Sitoli",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "N/A",
+            "timeZone": "N/A",
+            "forecastDay": []
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Tanggamus",
+        "cityLatitude": "-5.487502000",
+        "cityLongitude": "104.617310000",
+        "cityId": 3412,
+        "isCapital": false,
+        "stationName": "Kab. Tanggamus",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "21",
+                    "maxTemp": "28",
+                    "minTempF": "70",
+                    "maxTempF": "82",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Thunderstorms",
+                    "minTemp": "20",
+                    "maxTemp": "27",
+                    "minTempF": "68",
+                    "maxTempF": "81",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Thunderstorms",
+                    "minTemp": "20",
+                    "maxTemp": "28",
+                    "minTempF": "68",
+                    "maxTempF": "82",
+                    "weatherIcon": 201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

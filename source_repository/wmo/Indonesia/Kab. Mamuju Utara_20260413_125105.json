@@ -1,0 +1,45 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Mamuju Utara",
+        "cityLatitude": "-1.176000000",
+        "cityLongitude": "119.362000000",
+        "cityId": 3254,
+        "isCapital": false,
+        "stationName": "Kab. Mamuju Utara",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "N/A",
+            "timeZone": "N/A",
+            "forecastDay": []
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

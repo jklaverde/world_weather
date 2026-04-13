@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kasoa",
+        "cityLatitude": "5.534400000",
+        "cityLongitude": "-0.425300000",
+        "cityId": 2973,
+        "isCapital": false,
+        "stationName": "Kasoa",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 151,
+            "memName": "Ghana",
+            "shortMemName": "",
+            "url": "www.meteo.gov.gh",
+            "orgName": "Ghana Meteorological Agency",
+            "logo": "ghana_logo.jpg",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-12 17:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "26",
+                    "maxTemp": "35",
+                    "minTempF": "79",
+                    "maxTempF": "95",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, LOCALISED THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "26",
+                    "maxTemp": "35",
+                    "minTempF": "79",
+                    "maxTempF": "95",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, LOCALISED THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "26",
+                    "maxTemp": "36",
+                    "minTempF": "79",
+                    "maxTempF": "97",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "26",
+                    "maxTemp": "36",
+                    "minTempF": "79",
+                    "maxTempF": "97",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, LOCALISED THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "26",
+                    "maxTemp": "36",
+                    "minTempF": "79",
+                    "maxTempF": "97",
+                    "weatherIcon": 201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

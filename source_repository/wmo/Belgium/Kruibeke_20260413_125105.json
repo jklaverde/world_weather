@@ -1,0 +1,45 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kruibeke",
+        "cityLatitude": "51.157819000",
+        "cityLongitude": "4.291665000",
+        "cityId": 2579,
+        "isCapital": false,
+        "stationName": "Kruibeke",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0200",
+        "isDST": "Y",
+        "member": {
+            "memId": 53,
+            "memName": "Belgium",
+            "shortMemName": "",
+            "url": "www.meteo.be",
+            "orgName": "Institut Royal M\u00e9t\u00e9orologique",
+            "logo": "belgium_logo.png",
+            "ra": 6
+        },
+        "forecast": {
+            "issueDate": "N/A",
+            "timeZone": "N/A",
+            "forecastDay": []
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

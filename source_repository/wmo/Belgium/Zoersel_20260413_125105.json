@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Zoersel",
+        "cityLatitude": "51.257526000",
+        "cityLongitude": "4.669859000",
+        "cityId": 2864,
+        "isCapital": false,
+        "stationName": "Zoersel",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0200",
+        "isDST": "Y",
+        "member": {
+            "memId": 53,
+            "memName": "Belgium",
+            "shortMemName": "",
+            "url": "www.meteo.be",
+            "orgName": "Institut Royal M\u00e9t\u00e9orologique",
+            "logo": "belgium_logo.png",
+            "ra": 6
+        },
+        "forecast": {
+            "issueDate": "2026-04-12 11:00:01",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "5",
+                    "maxTemp": "14",
+                    "minTempF": "41",
+                    "maxTempF": "57",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Sunny Intervals",
+                    "minTemp": "5",
+                    "maxTemp": "15",
+                    "minTempF": "41",
+                    "maxTempF": "59",
+                    "weatherIcon": 2101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "5",
+                    "maxTemp": "17",
+                    "minTempF": "41",
+                    "maxTempF": "63",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Sunny Intervals",
+                    "minTemp": "7",
+                    "maxTemp": "18",
+                    "minTempF": "45",
+                    "maxTempF": "64",
+                    "weatherIcon": 2101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "8",
+                    "maxTemp": "18",
+                    "minTempF": "46",
+                    "maxTempF": "64",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

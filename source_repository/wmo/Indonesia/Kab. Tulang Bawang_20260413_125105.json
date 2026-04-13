@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Tulang Bawang",
+        "cityLatitude": "-4.500000000",
+        "cityLongitude": "105.250000000",
+        "cityId": 3433,
+        "isCapital": false,
+        "stationName": "Kab. Tulang Bawang",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "24",
+                    "maxTemp": "32",
+                    "minTempF": "75",
+                    "maxTempF": "90",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "30",
+                    "minTempF": "73",
+                    "maxTempF": "86",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "29",
+                    "minTempF": "73",
+                    "maxTempF": "84",
+                    "weatherIcon": 1401
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

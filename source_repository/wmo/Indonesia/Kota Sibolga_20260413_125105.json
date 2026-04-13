@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kota Sibolga",
+        "cityLatitude": "1.797343000",
+        "cityLongitude": "98.767090000",
+        "cityId": 3486,
+        "isCapital": false,
+        "stationName": "Kota Sibolga",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "28",
+                    "minTempF": "73",
+                    "maxTempF": "82",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "28",
+                    "minTempF": "73",
+                    "maxTempF": "82",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "22",
+                    "maxTemp": "28",
+                    "minTempF": "72",
+                    "maxTempF": "82",
+                    "weatherIcon": 1401
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

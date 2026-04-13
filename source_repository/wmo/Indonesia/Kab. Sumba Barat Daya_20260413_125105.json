@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Sumba Barat Daya",
+        "cityLatitude": "-9.428000000",
+        "cityLongitude": "119.236000000",
+        "cityId": 3393,
+        "isCapital": false,
+        "stationName": "Kab. Sumba Barat Daya",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "21",
+                    "maxTemp": "33",
+                    "minTempF": "70",
+                    "maxTempF": "91",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "19",
+                    "maxTemp": "32",
+                    "minTempF": "66",
+                    "maxTempF": "90",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Mostly Cloudy",
+                    "minTemp": "20",
+                    "maxTemp": "33",
+                    "minTempF": "68",
+                    "maxTempF": "91",
+                    "weatherIcon": 2302
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

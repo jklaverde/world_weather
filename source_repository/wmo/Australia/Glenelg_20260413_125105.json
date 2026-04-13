@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Glenelg",
+        "cityLatitude": "-34.980000000",
+        "cityLongitude": "138.520000000",
+        "cityId": 1676,
+        "isCapital": false,
+        "stationName": "Glenelg",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0930",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-11 09:15:32",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "11",
+                    "maxTemp": "20",
+                    "minTempF": "52",
+                    "maxTempF": "68",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "11",
+                    "maxTemp": "20",
+                    "minTempF": "52",
+                    "maxTempF": "68",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "11",
+                    "maxTemp": "21",
+                    "minTempF": "52",
+                    "maxTempF": "70",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "13",
+                    "maxTemp": "21",
+                    "minTempF": "55",
+                    "maxTempF": "70",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "12",
+                    "maxTemp": "20",
+                    "minTempF": "54",
+                    "maxTempF": "68",
+                    "weatherIcon": 2202
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Sainte-Ode",
+        "cityLatitude": "50.025050000",
+        "cityLongitude": "5.527947000",
+        "cityId": 2748,
+        "isCapital": false,
+        "stationName": "Sainte-Ode",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0200",
+        "isDST": "Y",
+        "member": {
+            "memId": 53,
+            "memName": "Belgium",
+            "shortMemName": "",
+            "url": "www.meteo.be",
+            "orgName": "Institut Royal M\u00e9t\u00e9orologique",
+            "logo": "belgium_logo.png",
+            "ra": 6
+        },
+        "forecast": {
+            "issueDate": "2026-04-12 11:00:01",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Drizzle",
+                    "minTemp": "4",
+                    "maxTemp": "9",
+                    "minTempF": "39",
+                    "maxTempF": "48",
+                    "weatherIcon": 1501
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "1",
+                    "maxTemp": "12",
+                    "minTempF": "34",
+                    "maxTempF": "54",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "1",
+                    "maxTemp": "14",
+                    "minTempF": "34",
+                    "maxTempF": "57",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "6",
+                    "maxTemp": "15",
+                    "minTempF": "43",
+                    "maxTempF": "59",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "6",
+                    "maxTemp": "16",
+                    "minTempF": "43",
+                    "maxTempF": "61",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Ambala",
+        "cityLatitude": "30.380000000",
+        "cityLongitude": "76.930000000",
+        "cityId": 1638,
+        "isCapital": false,
+        "stationName": "Ambala",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0530",
+        "isDST": "N",
+        "member": {
+            "memId": 66,
+            "memName": "India",
+            "shortMemName": "",
+            "url": "mausam.imd.gov.in",
+            "orgName": "India Meteorological Department",
+            "logo": "india_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 15:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "21",
+                    "maxTemp": "34",
+                    "minTempF": "70",
+                    "maxTempF": "93",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "22",
+                    "maxTemp": "36",
+                    "minTempF": "72",
+                    "maxTempF": "97",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "22",
+                    "maxTemp": "36",
+                    "minTempF": "72",
+                    "maxTempF": "97",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "23",
+                    "maxTemp": "36",
+                    "minTempF": "73",
+                    "maxTempF": "97",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "38",
+                    "minTempF": "75",
+                    "maxTempF": "100",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "38",
+                    "minTempF": "75",
+                    "maxTempF": "100",
+                    "weatherIcon": 2502
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

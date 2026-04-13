@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Alexandra",
+        "cityLatitude": "-45.214500000",
+        "cityLongitude": "169.375000000",
+        "cityId": 2105,
+        "isCapital": false,
+        "stationName": "Alexandra",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1200",
+        "isDST": "N",
+        "member": {
+            "memId": 46,
+            "memName": "New Zealand",
+            "shortMemName": "",
+            "url": "www.metservice.co.nz",
+            "orgName": "New Zealand National Meteorological Service",
+            "logo": "new_zealand_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-03-31 21:25:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "7",
+                    "maxTemp": "18",
+                    "minTempF": "45",
+                    "maxTempF": "64",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "3",
+                    "maxTemp": "16",
+                    "minTempF": "37",
+                    "maxTempF": "61",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "3",
+                    "maxTemp": "18",
+                    "minTempF": "37",
+                    "maxTempF": "64",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Windy",
+                    "minTemp": "3",
+                    "maxTemp": "14",
+                    "minTempF": "37",
+                    "maxTempF": "57",
+                    "weatherIcon": 2601
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "3",
+                    "maxTemp": "17",
+                    "minTempF": "37",
+                    "maxTempF": "63",
+                    "weatherIcon": 901
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

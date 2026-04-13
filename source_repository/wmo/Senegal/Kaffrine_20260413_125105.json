@@ -1,0 +1,66 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kaffrine",
+        "cityLatitude": "14.104237000",
+        "cityLongitude": "-15.544736000",
+        "cityId": 2919,
+        "isCapital": false,
+        "stationName": "Kaffrine",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 48,
+            "memName": "Senegal",
+            "shortMemName": "",
+            "url": "www.anacim.sn",
+            "orgName": "Agence nationale de l'Aviation Civile et de la M\u00e9t\u00e9orologie (ANACIM)",
+            "logo": "senegal_logo.png",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-12 12:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "26",
+                    "maxTemp": "44",
+                    "minTempF": "79",
+                    "maxTempF": "111",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "27",
+                    "maxTemp": "45",
+                    "minTempF": "81",
+                    "maxTempF": "113",
+                    "weatherIcon": 2201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

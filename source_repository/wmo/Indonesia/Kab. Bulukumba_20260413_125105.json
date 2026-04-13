@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Bulukumba",
+        "cityLatitude": "-5.540000000",
+        "cityLongitude": "120.180000000",
+        "cityId": 3108,
+        "isCapital": false,
+        "stationName": "Kab. Bulukumba",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Mostly Cloudy",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 2302
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

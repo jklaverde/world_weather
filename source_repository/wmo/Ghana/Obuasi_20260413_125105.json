@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Obuasi",
+        "cityLatitude": "6.200000000",
+        "cityLongitude": "-1.666700000",
+        "cityId": 2977,
+        "isCapital": false,
+        "stationName": "Obuasi",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 151,
+            "memName": "Ghana",
+            "shortMemName": "",
+            "url": "www.meteo.gov.gh",
+            "orgName": "Ghana Meteorological Agency",
+            "logo": "ghana_logo.jpg",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-12 17:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "24",
+                    "maxTemp": "33",
+                    "minTempF": "75",
+                    "maxTempF": "91",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "23",
+                    "maxTemp": "33",
+                    "minTempF": "73",
+                    "maxTempF": "91",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "23",
+                    "maxTemp": "34",
+                    "minTempF": "73",
+                    "maxTempF": "93",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "23",
+                    "maxTemp": "34",
+                    "minTempF": "73",
+                    "maxTempF": "93",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "23",
+                    "maxTemp": "33",
+                    "minTempF": "73",
+                    "maxTempF": "91",
+                    "weatherIcon": 201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

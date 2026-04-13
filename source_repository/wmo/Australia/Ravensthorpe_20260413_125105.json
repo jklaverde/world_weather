@@ -1,0 +1,231 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Ravensthorpe",
+        "cityLatitude": "-33.580000000",
+        "cityLongitude": "120.040000000",
+        "cityId": 484,
+        "isCapital": false,
+        "stationName": "RAVENSTHORPE",
+        "tourismURL": "www.tourism.australia.com",
+        "tourismBoardName": "Australian Tourist Commission",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "16",
+                    "maxTemp": "28",
+                    "minTempF": "61",
+                    "maxTempF": "82",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "24",
+                    "minTempF": "57",
+                    "maxTempF": "75",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "26",
+                    "minTempF": "57",
+                    "maxTempF": "79",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "17",
+                    "maxTemp": "27",
+                    "minTempF": "63",
+                    "maxTempF": "81",
+                    "weatherIcon": 2202
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "Rainfall",
+            "raindef": "",
+            "rainunit": "mm",
+            "datab": 1981,
+            "datae": 2010,
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": [
+                {
+                    "month": 1,
+                    "maxTemp": "28.6",
+                    "minTemp": "14.0",
+                    "meanTemp": null,
+                    "maxTempF": "83.5",
+                    "minTempF": "57.2",
+                    "meanTempF": null,
+                    "raindays": "6.0",
+                    "rainfall": "36.9",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 2,
+                    "maxTemp": "28.4",
+                    "minTemp": "14.6",
+                    "meanTemp": null,
+                    "maxTempF": "83.1",
+                    "minTempF": "58.3",
+                    "meanTempF": null,
+                    "raindays": "6.0",
+                    "rainfall": "23.7",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 3,
+                    "maxTemp": "26.6",
+                    "minTemp": "13.7",
+                    "meanTemp": null,
+                    "maxTempF": "79.9",
+                    "minTempF": "56.7",
+                    "meanTempF": null,
+                    "raindays": "8.4",
+                    "rainfall": "31.0",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 4,
+                    "maxTemp": "23.8",
+                    "minTemp": "11.9",
+                    "meanTemp": null,
+                    "maxTempF": "74.8",
+                    "minTempF": "53.4",
+                    "meanTempF": null,
+                    "raindays": "8.7",
+                    "rainfall": "30.7",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 5,
+                    "maxTemp": "20.4",
+                    "minTemp": "9.9",
+                    "meanTemp": null,
+                    "maxTempF": "68.7",
+                    "minTempF": "49.8",
+                    "meanTempF": null,
+                    "raindays": "10.7",
+                    "rainfall": "46.2",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 6,
+                    "maxTemp": "17.2",
+                    "minTemp": "7.8",
+                    "meanTemp": null,
+                    "maxTempF": "63.0",
+                    "minTempF": "46.0",
+                    "meanTempF": null,
+                    "raindays": "12.5",
+                    "rainfall": "40.3",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 7,
+                    "maxTemp": "16.2",
+                    "minTemp": "6.7",
+                    "meanTemp": null,
+                    "maxTempF": "61.2",
+                    "minTempF": "44.1",
+                    "meanTempF": null,
+                    "raindays": "13.8",
+                    "rainfall": "48.8",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 8,
+                    "maxTemp": "17.2",
+                    "minTemp": "6.8",
+                    "meanTemp": null,
+                    "maxTempF": "63.0",
+                    "minTempF": "44.2",
+                    "meanTempF": null,
+                    "raindays": "14.4",
+                    "rainfall": "46.1",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 9,
+                    "maxTemp": "19.7",
+                    "minTemp": "7.6",
+                    "meanTemp": null,
+                    "maxTempF": "67.5",
+                    "minTempF": "45.7",
+                    "meanTempF": null,
+                    "raindays": "12.0",
+                    "rainfall": "41.4",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 10,
+                    "maxTemp": "22.5",
+                    "minTemp": "9.0",
+                    "meanTemp": null,
+                    "maxTempF": "72.5",
+                    "minTempF": "48.2",
+                    "meanTempF": null,
+                    "raindays": "10.1",
+                    "rainfall": "31.1",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 11,
+                    "maxTemp": "24.9",
+                    "minTemp": "11.1",
+                    "meanTemp": null,
+                    "maxTempF": "76.8",
+                    "minTempF": "52.0",
+                    "meanTempF": null,
+                    "raindays": "8.7",
+                    "rainfall": "32.8",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 12,
+                    "maxTemp": "26.8",
+                    "minTemp": "12.7",
+                    "meanTemp": null,
+                    "maxTempF": "80.2",
+                    "minTempF": "54.9",
+                    "meanTempF": null,
+                    "raindays": "6.8",
+                    "rainfall": "26.1",
+                    "climateFromMemDate": "2002-03-23"
+                }
+            ]
+        }
+    }
+}

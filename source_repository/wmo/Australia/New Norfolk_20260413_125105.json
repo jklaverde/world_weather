@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "New Norfolk",
+        "cityLatitude": "-42.780000000",
+        "cityLongitude": "147.050000000",
+        "cityId": 1710,
+        "isCapital": false,
+        "stationName": "New Norfolk",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1000",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 04:10:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "6",
+                    "maxTemp": "17",
+                    "minTempF": "43",
+                    "maxTempF": "63",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "8",
+                    "maxTemp": "18",
+                    "minTempF": "46",
+                    "maxTempF": "64",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "7",
+                    "maxTemp": "15",
+                    "minTempF": "45",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "9",
+                    "maxTemp": "16",
+                    "minTempF": "48",
+                    "maxTempF": "61",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "7",
+                    "maxTemp": "12",
+                    "minTempF": "45",
+                    "maxTempF": "54",
+                    "weatherIcon": 1101
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

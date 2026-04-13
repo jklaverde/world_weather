@@ -1,0 +1,241 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kraties",
+        "cityLatitude": "12.475972000",
+        "cityLongitude": "106.020556000",
+        "cityId": 3646,
+        "isCapital": false,
+        "stationName": "Kraties",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 145,
+            "memName": "Cambodia",
+            "shortMemName": "",
+            "url": "mowram.gov.kh",
+            "orgName": "Ministry of Water Resources and Meteorology",
+            "logo": "cambodia_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 11:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Hot",
+                    "minTemp": "27",
+                    "maxTemp": "38",
+                    "minTempF": "81",
+                    "maxTempF": "100",
+                    "weatherIcon": 3101
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Hot",
+                    "minTemp": "27",
+                    "maxTemp": "38",
+                    "minTempF": "81",
+                    "maxTempF": "100",
+                    "weatherIcon": 3101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "28",
+                    "maxTemp": "38",
+                    "minTempF": "82",
+                    "maxTempF": "100",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "27",
+                    "maxTemp": "37",
+                    "minTempF": "81",
+                    "maxTempF": "99",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "27",
+                    "maxTemp": "38",
+                    "minTempF": "81",
+                    "maxTempF": "100",
+                    "weatherIcon": 1401
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "Rainfall",
+            "raindef": "4",
+            "rainunit": "mm",
+            "datab": 1982,
+            "datae": 2024,
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": [
+                {
+                    "month": 1,
+                    "maxTemp": "32.5",
+                    "minTemp": "20.6",
+                    "meanTemp": null,
+                    "maxTempF": "90.5",
+                    "minTempF": "69.1",
+                    "meanTempF": null,
+                    "raindays": "3.0",
+                    "rainfall": "5.8",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 2,
+                    "maxTemp": "33.7",
+                    "minTemp": "20.3",
+                    "meanTemp": null,
+                    "maxTempF": "92.7",
+                    "minTempF": "68.5",
+                    "meanTempF": null,
+                    "raindays": "6.0",
+                    "rainfall": "25.6",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 3,
+                    "maxTemp": "35.6",
+                    "minTemp": "21.7",
+                    "meanTemp": null,
+                    "maxTempF": "96.1",
+                    "minTempF": "71.1",
+                    "meanTempF": null,
+                    "raindays": "12.0",
+                    "rainfall": "65.1",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 4,
+                    "maxTemp": "35.0",
+                    "minTemp": "23.0",
+                    "meanTemp": null,
+                    "maxTempF": "95.0",
+                    "minTempF": "73.4",
+                    "meanTempF": null,
+                    "raindays": "15.0",
+                    "rainfall": "90.8",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 5,
+                    "maxTemp": "34.4",
+                    "minTemp": "23.7",
+                    "meanTemp": null,
+                    "maxTempF": "93.9",
+                    "minTempF": "74.7",
+                    "meanTempF": null,
+                    "raindays": "19.0",
+                    "rainfall": "222.3",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 6,
+                    "maxTemp": "33.5",
+                    "minTemp": "23.9",
+                    "meanTemp": null,
+                    "maxTempF": "92.3",
+                    "minTempF": "75.0",
+                    "meanTempF": null,
+                    "raindays": "23.0",
+                    "rainfall": "253.7",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 7,
+                    "maxTemp": "32.7",
+                    "minTemp": "23.6",
+                    "meanTemp": null,
+                    "maxTempF": "90.9",
+                    "minTempF": "74.5",
+                    "meanTempF": null,
+                    "raindays": "26.0",
+                    "rainfall": "224.5",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 8,
+                    "maxTemp": "33.0",
+                    "minTemp": "23.4",
+                    "meanTemp": null,
+                    "maxTempF": "91.4",
+                    "minTempF": "74.1",
+                    "meanTempF": null,
+                    "raindays": "24.0",
+                    "rainfall": "275.7",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 9,
+                    "maxTemp": "31.9",
+                    "minTemp": "23.7",
+                    "meanTemp": null,
+                    "maxTempF": "89.4",
+                    "minTempF": "74.7",
+                    "meanTempF": null,
+                    "raindays": "29.0",
+                    "rainfall": "294.2",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 10,
+                    "maxTemp": "32.8",
+                    "minTemp": "23.8",
+                    "meanTemp": null,
+                    "maxTempF": "91.0",
+                    "minTempF": "74.8",
+                    "meanTempF": null,
+                    "raindays": "29.0",
+                    "rainfall": "201.8",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 11,
+                    "maxTemp": "31.8",
+                    "minTemp": "22.0",
+                    "meanTemp": null,
+                    "maxTempF": "89.2",
+                    "minTempF": "71.6",
+                    "meanTempF": null,
+                    "raindays": "17.0",
+                    "rainfall": "73.9",
+                    "climateFromMemDate": "2025-12-11"
+                },
+                {
+                    "month": 12,
+                    "maxTemp": "31.5",
+                    "minTemp": "21.2",
+                    "meanTemp": null,
+                    "maxTempF": "88.7",
+                    "minTempF": "70.2",
+                    "meanTempF": null,
+                    "raindays": "5.0",
+                    "rainfall": "10.2",
+                    "climateFromMemDate": "2025-12-11"
+                }
+            ]
+        }
+    }
+}

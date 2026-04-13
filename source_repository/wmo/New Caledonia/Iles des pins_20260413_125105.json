@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Iles des pins",
+        "cityLatitude": "-22.650000000",
+        "cityLongitude": "167.430000000",
+        "cityId": 1477,
+        "isCapital": false,
+        "stationName": "Ile-des-Pins",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1100",
+        "isDST": "N",
+        "member": {
+            "memId": 140,
+            "memName": "New Caledonia",
+            "shortMemName": "",
+            "url": "www.meteo.nc",
+            "orgName": "M\u00e9t\u00e9o-France Regional Service New Caledonia, Wallis and Futuna",
+            "logo": "bandeau_02.gif",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 09:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "21",
+                    "maxTemp": "28",
+                    "minTempF": "70",
+                    "maxTempF": "82",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Thundershowers",
+                    "minTemp": "22",
+                    "maxTemp": "27",
+                    "minTempF": "72",
+                    "maxTempF": "81",
+                    "weatherIcon": 202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "22",
+                    "maxTemp": "27",
+                    "minTempF": "72",
+                    "maxTempF": "81",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "22",
+                    "maxTemp": "27",
+                    "minTempF": "72",
+                    "maxTempF": "81",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "22",
+                    "maxTemp": "27",
+                    "minTempF": "72",
+                    "maxTempF": "81",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "21",
+                    "maxTemp": "28",
+                    "minTempF": "70",
+                    "maxTempF": "82",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "20",
+                    "maxTemp": "26",
+                    "minTempF": "68",
+                    "maxTempF": "79",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-20",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "20",
+                    "maxTemp": "25",
+                    "minTempF": "68",
+                    "maxTempF": "77",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-21",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "23",
+                    "maxTemp": "24",
+                    "minTempF": "73",
+                    "maxTempF": "75",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-22",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "23",
+                    "maxTemp": "24",
+                    "minTempF": "73",
+                    "maxTempF": "75",
+                    "weatherIcon": 2402
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

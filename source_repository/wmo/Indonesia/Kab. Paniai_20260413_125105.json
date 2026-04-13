@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Paniai",
+        "cityLatitude": "-3.929278000",
+        "cityLongitude": "136.379333000",
+        "cityId": 3314,
+        "isCapital": false,
+        "stationName": "Kab. Paniai",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0900",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "14",
+                    "maxTemp": "24",
+                    "minTempF": "57",
+                    "maxTempF": "75",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "11",
+                    "maxTemp": "25",
+                    "minTempF": "52",
+                    "maxTempF": "77",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "11",
+                    "maxTemp": "25",
+                    "minTempF": "52",
+                    "maxTempF": "77",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

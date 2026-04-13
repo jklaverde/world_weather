@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Valparaiso",
+        "cityLatitude": "-33.047238000",
+        "cityLongitude": "-71.612689000",
+        "cityId": 2204,
+        "isCapital": false,
+        "stationName": "Valparaiso",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "-0400",
+        "isDST": "N",
+        "member": {
+            "memId": 28,
+            "memName": "Chile",
+            "shortMemName": "",
+            "url": "www.meteochile.cl",
+            "orgName": "Direcci\u00f3n Meteorol\u00f3gica de Chile",
+            "logo": "chile_logo.png",
+            "ra": 3
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 17:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "10",
+                    "maxTemp": "19",
+                    "minTempF": "50",
+                    "maxTempF": "66",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "9",
+                    "maxTemp": "17",
+                    "minTempF": "48",
+                    "maxTempF": "63",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "11",
+                    "maxTemp": "19",
+                    "minTempF": "52",
+                    "maxTempF": "66",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "10",
+                    "maxTemp": "17",
+                    "minTempF": "50",
+                    "maxTempF": "63",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "12",
+                    "maxTemp": "18",
+                    "minTempF": "54",
+                    "maxTempF": "64",
+                    "weatherIcon": 2301
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

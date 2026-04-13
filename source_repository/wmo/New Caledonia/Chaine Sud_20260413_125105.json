@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Chaine Sud",
+        "cityLatitude": "-22.250000000",
+        "cityLongitude": "166.640000000",
+        "cityId": 1476,
+        "isCapital": false,
+        "stationName": "Chaine Sud",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1100",
+        "isDST": "N",
+        "member": {
+            "memId": 140,
+            "memName": "New Caledonia",
+            "shortMemName": "",
+            "url": "www.meteo.nc",
+            "orgName": "M\u00e9t\u00e9o-France Regional Service New Caledonia, Wallis and Futuna",
+            "logo": "bandeau_02.gif",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 09:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "18",
+                    "maxTemp": "26",
+                    "minTempF": "64",
+                    "maxTempF": "79",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "17",
+                    "maxTemp": "21",
+                    "minTempF": "63",
+                    "maxTempF": "70",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "17",
+                    "maxTemp": "21",
+                    "minTempF": "63",
+                    "maxTempF": "70",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "16",
+                    "maxTemp": "21",
+                    "minTempF": "61",
+                    "maxTempF": "70",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "17",
+                    "maxTemp": "22",
+                    "minTempF": "63",
+                    "maxTempF": "72",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "17",
+                    "maxTemp": "24",
+                    "minTempF": "63",
+                    "maxTempF": "75",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "16",
+                    "maxTemp": "19",
+                    "minTempF": "61",
+                    "maxTempF": "66",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-20",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "16",
+                    "maxTemp": "21",
+                    "minTempF": "61",
+                    "maxTempF": "70",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-21",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "16",
+                    "maxTemp": "21",
+                    "minTempF": "61",
+                    "maxTempF": "70",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-22",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "17",
+                    "maxTemp": "20",
+                    "minTempF": "63",
+                    "maxTempF": "68",
+                    "weatherIcon": 1401
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

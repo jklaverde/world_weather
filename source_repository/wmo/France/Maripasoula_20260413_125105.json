@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Maripasoula",
+        "cityLatitude": "3.640000000",
+        "cityLongitude": "-54.030000000",
+        "cityId": 3622,
+        "isCapital": false,
+        "stationName": "Maripasoula",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": true,
+        "timeZone": "-0300",
+        "isDST": "N",
+        "member": {
+            "memId": 187,
+            "memName": "France - Guiana",
+            "shortMemName": "",
+            "url": "www.meteo.fr/meteonet_en/index.htm",
+            "orgName": "M\u00e9t\u00e9o-France",
+            "logo": "france_logo.png",
+            "ra": 3
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 09:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Thundershowers",
+                    "minTemp": "22",
+                    "maxTemp": "31",
+                    "minTempF": "72",
+                    "maxTempF": "88",
+                    "weatherIcon": 202
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Thundershowers",
+                    "minTemp": "23",
+                    "maxTemp": "29",
+                    "minTempF": "73",
+                    "maxTempF": "84",
+                    "weatherIcon": 202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "22",
+                    "maxTemp": "29",
+                    "minTempF": "72",
+                    "maxTempF": "84",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Thundershowers",
+                    "minTemp": "22",
+                    "maxTemp": "29",
+                    "minTempF": "72",
+                    "maxTempF": "84",
+                    "weatherIcon": 202
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Thundershowers",
+                    "minTemp": "22",
+                    "maxTemp": "29",
+                    "minTempF": "72",
+                    "maxTempF": "84",
+                    "weatherIcon": 202
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "30",
+                    "minTempF": "73",
+                    "maxTempF": "86",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "30",
+                    "minTempF": "73",
+                    "maxTempF": "86",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-20",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-21",
+                    "wxdesc": "",
+                    "weather": "Heavy Showers",
+                    "minTemp": "22",
+                    "maxTemp": "29",
+                    "minTempF": "72",
+                    "maxTempF": "84",
+                    "weatherIcon": 902
+                },
+                {
+                    "forecastDate": "2026-04-22",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "26",
+                    "minTempF": "73",
+                    "maxTempF": "79",
+                    "weatherIcon": 1401
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

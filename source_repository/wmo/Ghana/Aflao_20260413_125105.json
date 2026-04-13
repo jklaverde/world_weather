@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Aflao",
+        "cityLatitude": "6.116700000",
+        "cityLongitude": "1.183300000",
+        "cityId": 2966,
+        "isCapital": false,
+        "stationName": "Aflao",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 151,
+            "memName": "Ghana",
+            "shortMemName": "",
+            "url": "www.meteo.gov.gh",
+            "orgName": "Ghana Meteorological Agency",
+            "logo": "ghana_logo.jpg",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-12 17:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "27",
+                    "maxTemp": "33",
+                    "minTempF": "81",
+                    "maxTempF": "91",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "28",
+                    "maxTemp": "33",
+                    "minTempF": "82",
+                    "maxTempF": "91",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "28",
+                    "maxTemp": "33",
+                    "minTempF": "82",
+                    "maxTempF": "91",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "27",
+                    "maxTemp": "32",
+                    "minTempF": "81",
+                    "maxTempF": "90",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "MISTY MORNING, SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "27",
+                    "maxTemp": "32",
+                    "minTempF": "81",
+                    "maxTempF": "90",
+                    "weatherIcon": 2201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

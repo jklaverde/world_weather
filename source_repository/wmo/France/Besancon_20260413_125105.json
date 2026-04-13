@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Besancon",
+        "cityLatitude": "47.242262000",
+        "cityLongitude": "6.020591000",
+        "cityId": 3551,
+        "isCapital": false,
+        "stationName": "Besancon",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0200",
+        "isDST": "Y",
+        "member": {
+            "memId": 62,
+            "memName": "France",
+            "shortMemName": "",
+            "url": "www.meteo.fr/meteonet_en/index.htm",
+            "orgName": "M\u00e9t\u00e9o-France",
+            "logo": "france_logo.png",
+            "ra": 6
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 09:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "6",
+                    "maxTemp": "9",
+                    "minTempF": "43",
+                    "maxTempF": "48",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "6",
+                    "maxTemp": "15",
+                    "minTempF": "43",
+                    "maxTempF": "59",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "5",
+                    "maxTemp": "18",
+                    "minTempF": "41",
+                    "maxTempF": "64",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "6",
+                    "maxTemp": "19",
+                    "minTempF": "43",
+                    "maxTempF": "66",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "8",
+                    "maxTemp": "23",
+                    "minTempF": "46",
+                    "maxTempF": "73",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "8",
+                    "maxTemp": "23",
+                    "minTempF": "46",
+                    "maxTempF": "73",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "8",
+                    "maxTemp": "19",
+                    "minTempF": "46",
+                    "maxTempF": "66",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-20",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "6",
+                    "maxTemp": "19",
+                    "minTempF": "43",
+                    "maxTempF": "66",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-21",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "7",
+                    "maxTemp": "21",
+                    "minTempF": "45",
+                    "maxTempF": "70",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-22",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "9",
+                    "maxTemp": "24",
+                    "minTempF": "48",
+                    "maxTempF": "75",
+                    "weatherIcon": 2202
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

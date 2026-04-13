@@ -1,0 +1,211 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Castries",
+        "cityLatitude": "14.000000000",
+        "cityLongitude": "-61.010000000",
+        "cityId": 1222,
+        "isCapital": true,
+        "stationName": "Castries",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "-0400",
+        "isDST": "N",
+        "member": {
+            "memId": 164,
+            "memName": "Saint Lucia",
+            "shortMemName": "",
+            "url": "www.slumet.gov.lc",
+            "orgName": "Saint Lucia Meteorological Services",
+            "logo": "saintlucia_logo.png",
+            "ra": 4
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 05:15:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "24",
+                    "maxTemp": "30",
+                    "minTempF": "75",
+                    "maxTempF": "86",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "25",
+                    "maxTemp": "30",
+                    "minTempF": "77",
+                    "maxTempF": "86",
+                    "weatherIcon": 1101
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "Rainfall",
+            "raindef": "",
+            "rainunit": "mm",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": [
+                {
+                    "month": 1,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 2,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 3,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 4,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 5,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 6,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 7,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 8,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 9,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 10,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 11,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 12,
+                    "maxTemp": "",
+                    "minTemp": "",
+                    "meanTemp": null,
+                    "maxTempF": "",
+                    "minTempF": "",
+                    "meanTempF": null,
+                    "raindays": "",
+                    "rainfall": "",
+                    "climateFromMemDate": ""
+                }
+            ]
+        }
+    }
+}

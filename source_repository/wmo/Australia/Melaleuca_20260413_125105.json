@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Melaleuca",
+        "cityLatitude": "-43.450000000",
+        "cityLongitude": "146.150000000",
+        "cityId": 1695,
+        "isCapital": false,
+        "stationName": "Melaleuca",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1000",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 04:10:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "9",
+                    "maxTemp": "15",
+                    "minTempF": "48",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "11",
+                    "maxTemp": "16",
+                    "minTempF": "52",
+                    "maxTempF": "61",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "10",
+                    "maxTemp": "15",
+                    "minTempF": "50",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "11",
+                    "maxTemp": "15",
+                    "minTempF": "52",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "8",
+                    "maxTemp": "13",
+                    "minTempF": "46",
+                    "maxTempF": "55",
+                    "weatherIcon": 1101
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

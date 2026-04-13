@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Saratamata",
+        "cityLatitude": "-15.280000000",
+        "cityLongitude": "167.980000000",
+        "cityId": 1471,
+        "isCapital": false,
+        "stationName": "Saratamata",
+        "tourismURL": "www.vanuatutourism.com",
+        "tourismBoardName": "Vanuatu Tourism Office",
+        "isDep": false,
+        "timeZone": "+1100",
+        "isDST": "N",
+        "member": {
+            "memId": 169,
+            "memName": "Vanuatu",
+            "shortMemName": "",
+            "url": "www.meteo.gov.vu/",
+            "orgName": "Vanuatu Meteorology and Geo-hazards Department",
+            "logo": "vanuatu_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-13 03:57:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "25",
+                    "maxTemp": "31",
+                    "minTempF": "77",
+                    "maxTempF": "88",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "25",
+                    "maxTemp": "31",
+                    "minTempF": "77",
+                    "maxTempF": "88",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Light Showers",
+                    "minTemp": "25",
+                    "maxTemp": "31",
+                    "minTempF": "77",
+                    "maxTempF": "88",
+                    "weatherIcon": 1201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

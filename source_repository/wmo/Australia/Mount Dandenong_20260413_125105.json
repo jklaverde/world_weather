@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Mount Dandenong",
+        "cityLatitude": "-37.830000000",
+        "cityLongitude": "145.350000000",
+        "cityId": 1702,
+        "isCapital": false,
+        "stationName": "Mount Dandenong",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1000",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 04:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "7",
+                    "maxTemp": "12",
+                    "minTempF": "45",
+                    "maxTempF": "54",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "8",
+                    "maxTemp": "15",
+                    "minTempF": "46",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "8",
+                    "maxTemp": "14",
+                    "minTempF": "46",
+                    "maxTempF": "57",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "8",
+                    "maxTemp": "15",
+                    "minTempF": "46",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "7",
+                    "maxTemp": "12",
+                    "minTempF": "45",
+                    "maxTempF": "54",
+                    "weatherIcon": 1101
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Deloraine",
+        "cityLatitude": "-41.520000000",
+        "cityLongitude": "146.650000000",
+        "cityId": 1672,
+        "isCapital": false,
+        "stationName": "Deloraine",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1000",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 04:10:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "3",
+                    "maxTemp": "17",
+                    "minTempF": "37",
+                    "maxTempF": "63",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "3",
+                    "maxTemp": "18",
+                    "minTempF": "37",
+                    "maxTempF": "64",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "4",
+                    "maxTemp": "15",
+                    "minTempF": "39",
+                    "maxTempF": "59",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "4",
+                    "maxTemp": "16",
+                    "minTempF": "39",
+                    "maxTempF": "61",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "3",
+                    "maxTemp": "13",
+                    "minTempF": "37",
+                    "maxTempF": "55",
+                    "weatherIcon": 2202
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}
