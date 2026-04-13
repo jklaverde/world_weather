@@ -1,3 +1,18 @@
+# International University (Internationale Hochschule) - Written assignment complementary project
+
+'''
+This academic project is complementary to written assignment of the course "Data Quality and Data Wrangling" (DLBDSDQDW01)
+
+Task: Scrape the Web
+Student Name: Juan Carlos Laverde
+Student Id: UPS10797707
+Tutor: Dr. PhD. Christian Müller-Kett
+
+The project has as purpose to practice and train the skills acquired along the course
+specifically scrapping a web application through APIs, in this case
+
+'''
+
 # World Weather Repository
 
 A Python-based data collection and wrangling project that aggregates global weather data from two independent sources:
@@ -55,15 +70,15 @@ world_weather_repository/
 
 A static CSV dataset (~34 MB, ~134,000 records) with historical weather observations worldwide.
 
-| Field Category | Fields |
-|---|---|
-| Location | country, location_name, latitude, longitude, timezone |
-| Weather | temperature_celsius, temperature_fahrenheit, condition_text |
-| Wind | wind_mph, wind_kph, wind_degree, wind_direction, gust_mph, gust_kph |
-| Atmosphere | humidity, cloud, pressure_mb, precip_mm, vis_km, uv_index |
-| Air Quality | air_quality_CO, air_quality_O3, air_quality_NO2, air_quality_SO2, air_quality_PM2.5, air_quality_PM10, air_quality_us-epa-index, air_quality_gb-defra-index |
-| Astronomy | sunrise, sunset, moonrise, moonset, moon_phase, moon_illumination |
-| Timestamp | last_updated_epoch, last_updated |
+| Field Category | Fields                                                                                                                                                      |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Location       | country, location_name, latitude, longitude, timezone                                                                                                       |
+| Weather        | temperature_celsius, temperature_fahrenheit, condition_text                                                                                                 |
+| Wind           | wind_mph, wind_kph, wind_degree, wind_direction, gust_mph, gust_kph                                                                                         |
+| Atmosphere     | humidity, cloud, pressure_mb, precip_mm, vis_km, uv_index                                                                                                   |
+| Air Quality    | air_quality_CO, air_quality_O3, air_quality_NO2, air_quality_SO2, air_quality_PM2.5, air_quality_PM10, air_quality_us-epa-index, air_quality_gb-defra-index |
+| Astronomy      | sunrise, sunset, moonrise, moonset, moon_phase, moon_illumination                                                                                           |
+| Timestamp      | last_updated_epoch, last_updated                                                                                                                            |
 
 After download, the CSV is automatically converted to HDF5 format (key: `global_weather`) for efficient storage and retrieval.
 
@@ -114,6 +129,7 @@ python world_weather_repository.py [OPTIONS]
 ```
 
 With no arguments, the script performs a **full run**:
+
 1. Downloads the Kaggle dataset and converts it to HDF5
 2. Reuses the latest cached WMO city list
 3. Scrapes live weather data for every city in the list
@@ -122,14 +138,15 @@ With no arguments, the script performs a **full run**:
 
 ## CLI Arguments
 
-| Argument | Type | Default | Description |
-|---|---|---|---|
-| `--cities` | one or more strings | _(none)_ | Scrape only the specified city names |
-| `--countries` | one or more strings | _(none)_ | Scrape all cities within the specified countries |
-| `--skip-kaggle` | flag | `False` | Skip the Kaggle download and HDF5 conversion |
-| `--update-city-list` | flag | `False` | Re-fetch the WMO city list before scraping |
+| Argument             | Type                | Default  | Description                                      |
+| -------------------- | ------------------- | -------- | ------------------------------------------------ |
+| `--cities`           | one or more strings | _(none)_ | Scrape only the specified city names             |
+| `--countries`        | one or more strings | _(none)_ | Scrape all cities within the specified countries |
+| `--skip-kaggle`      | flag                | `False`  | Skip the Kaggle download and HDF5 conversion     |
+| `--update-city-list` | flag                | `False`  | Re-fetch the WMO city list before scraping       |
 
 **Matching rules:**
+
 - City and country names are matched **case-insensitively** and **exactly** (e.g. `germany` matches `Germany` but not `West Germany`)
 - When both `--cities` and `--countries` are provided, a city is scraped if it matches **either** filter (union)
 - If the filters produce no matches, the script prints a warning and exits without scraping
@@ -168,20 +185,20 @@ Main entry point. Parses CLI arguments, ensures the directory structure exists, 
 
 ### `scrap_kaggle.py` — `ScrapKaggle`
 
-| Method | Description |
-|---|---|
+| Method                                                               | Description                                                                 |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | `_download_kaggle_repository(remote_repository_name, source_folder)` | Downloads the specified Kaggle dataset to `source_folder` using `kagglehub` |
 
 ### `scrap_wmo.py` — `ScrapCitiesWmo`
 
-| Method | Description |
-|---|---|
-| `scrap_cities_list()` | Fetches the WMO city list and saves it as `cities_YYYYMMDD_HHMMSS.csv`. Returns the file name. |
-| `scrap_city_weather(country, city_name, city_id, file_name)` | Fetches and saves the weather JSON for a single city |
-| `scrap_weather_from_latest_city_file(cities, countries)` | Reads the latest cached city list and scrapes weather data, optionally filtered by `cities` and/or `countries` |
+| Method                                                       | Description                                                                                                    |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| `scrap_cities_list()`                                        | Fetches the WMO city list and saves it as `cities_YYYYMMDD_HHMMSS.csv`. Returns the file name.                 |
+| `scrap_city_weather(country, city_name, city_id, file_name)` | Fetches and saves the weather JSON for a single city                                                           |
+| `scrap_weather_from_latest_city_file(cities, countries)`     | Reads the latest cached city list and scrapes weather data, optionally filtered by `cities` and/or `countries` |
 
 ### `scrap_utils.py` — `ScrapUtil`
 
-| Method | Description |
-|---|---|
+| Method                                          | Description                                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------- |
 | `_convert_csv_to_hdf5(source_csv, target_hdf5)` | Reads a CSV file with pandas and writes it as an HDF5 file (key: `global_weather`) |
