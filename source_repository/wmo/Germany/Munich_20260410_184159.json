@@ -22,21 +22,21 @@
             "ra": 6
         },
         "forecast": {
-            "issueDate": "2026-04-10 11:00:00",
+            "issueDate": "2026-04-13 11:00:00",
             "timeZone": "Local",
             "forecastDay": [
                 {
-                    "forecastDate": "2026-04-11",
+                    "forecastDate": "2026-04-14",
                     "wxdesc": "",
-                    "weather": "Partly Cloudy",
-                    "minTemp": "6",
-                    "maxTemp": "18",
-                    "minTempF": "43",
-                    "maxTempF": "64",
-                    "weatherIcon": 2202
+                    "weather": "Light Rain",
+                    "minTemp": "8",
+                    "maxTemp": "11",
+                    "minTempF": "46",
+                    "maxTempF": "52",
+                    "weatherIcon": 1502
                 },
                 {
-                    "forecastDate": "2026-04-12",
+                    "forecastDate": "2026-04-15",
                     "wxdesc": "",
                     "weather": "Cloudy",
                     "minTemp": "8",
@@ -46,34 +46,34 @@
                     "weatherIcon": 2301
                 },
                 {
-                    "forecastDate": "2026-04-13",
+                    "forecastDate": "2026-04-16",
                     "wxdesc": "",
                     "weather": "Cloudy",
-                    "minTemp": "8",
-                    "maxTemp": "15",
-                    "minTempF": "46",
-                    "maxTempF": "59",
+                    "minTemp": "9",
+                    "maxTemp": "19",
+                    "minTempF": "48",
+                    "maxTempF": "66",
                     "weatherIcon": 2301
                 },
                 {
-                    "forecastDate": "2026-04-14",
+                    "forecastDate": "2026-04-17",
                     "wxdesc": "",
-                    "weather": "Light Rain",
-                    "minTemp": "7",
-                    "maxTemp": "14",
-                    "minTempF": "45",
-                    "maxTempF": "57",
-                    "weatherIcon": 1502
+                    "weather": "Cloudy",
+                    "minTemp": "8",
+                    "maxTemp": "20",
+                    "minTempF": "46",
+                    "maxTempF": "68",
+                    "weatherIcon": 2301
                 },
                 {
-                    "forecastDate": "2026-04-15",
+                    "forecastDate": "2026-04-18",
                     "wxdesc": "",
-                    "weather": "Light Rain",
-                    "minTemp": "6",
-                    "maxTemp": "15",
-                    "minTempF": "43",
-                    "maxTempF": "59",
-                    "weatherIcon": 1502
+                    "weather": "Partly Cloudy",
+                    "minTemp": "8",
+                    "maxTemp": "20",
+                    "minTempF": "46",
+                    "maxTempF": "68",
+                    "weatherIcon": 2202
                 }
             ]
         },

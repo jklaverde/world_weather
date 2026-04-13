@@ -22,77 +22,77 @@
             "ra": 4
         },
         "forecast": {
-            "issueDate": "2026-04-10 06:31:00",
+            "issueDate": "2026-04-12 19:02:00",
             "timeZone": "Local",
             "forecastDay": [
-                {
-                    "forecastDate": "2026-04-10",
-                    "wxdesc": "",
-                    "weather": "Sunny",
-                    "minTemp": "",
-                    "maxTemp": "18",
-                    "minTempF": "",
-                    "maxTempF": "64",
-                    "weatherIcon": 2402
-                },
-                {
-                    "forecastDate": "2026-04-11",
-                    "wxdesc": "",
-                    "weather": "Sunny",
-                    "minTemp": "11",
-                    "maxTemp": "16",
-                    "minTempF": "51",
-                    "maxTempF": "61",
-                    "weatherIcon": 2402
-                },
-                {
-                    "forecastDate": "2026-04-12",
-                    "wxdesc": "",
-                    "weather": "Sunny",
-                    "minTemp": "8",
-                    "maxTemp": "13",
-                    "minTempF": "46",
-                    "maxTempF": "55",
-                    "weatherIcon": 2402
-                },
                 {
                     "forecastDate": "2026-04-13",
                     "wxdesc": "",
                     "weather": "Mostly Cloudy",
-                    "minTemp": "12",
-                    "maxTemp": "22",
-                    "minTempF": "54",
-                    "maxTempF": "72",
+                    "minTemp": "10",
+                    "maxTemp": "24",
+                    "minTempF": "50",
+                    "maxTempF": "76",
                     "weatherIcon": 2302
                 },
                 {
                     "forecastDate": "2026-04-14",
                     "wxdesc": "",
-                    "weather": "Sunny Periods",
-                    "minTemp": "16",
-                    "maxTemp": "24",
-                    "minTempF": "60",
-                    "maxTempF": "76",
-                    "weatherIcon": 2201
+                    "weather": "Sunny",
+                    "minTemp": "17",
+                    "maxTemp": "26",
+                    "minTempF": "62",
+                    "maxTempF": "78",
+                    "weatherIcon": 2402
                 },
                 {
                     "forecastDate": "2026-04-15",
                     "wxdesc": "",
-                    "weather": "Sunny Periods",
-                    "minTemp": "17",
-                    "maxTemp": "25",
-                    "minTempF": "63",
-                    "maxTempF": "77",
-                    "weatherIcon": 2201
+                    "weather": "Sunny",
+                    "minTemp": "18",
+                    "maxTemp": "28",
+                    "minTempF": "64",
+                    "maxTempF": "82",
+                    "weatherIcon": 2402
                 },
                 {
                     "forecastDate": "2026-04-16",
                     "wxdesc": "",
                     "weather": "Sunny Periods",
+                    "minTemp": "19",
+                    "maxTemp": "26",
+                    "minTempF": "66",
+                    "maxTempF": "79",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Sunny",
                     "minTemp": "18",
                     "maxTemp": "24",
                     "minTempF": "64",
                     "maxTempF": "76",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "16",
+                    "maxTemp": "22",
+                    "minTempF": "61",
+                    "maxTempF": "71",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "14",
+                    "maxTemp": "22",
+                    "minTempF": "58",
+                    "maxTempF": "71",
                     "weatherIcon": 2201
                 }
             ]
