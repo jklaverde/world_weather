@@ -63,26 +63,39 @@ class ScrapCitiesWmo:
     
 
     # scrap the weather of the cities available in the most recent cities list
-    def scrap_weather_from_latest_city_file(self):
+    # optional filters: cities (list of city names) and countries (list of country names), case-insensitive
+    def scrap_weather_from_latest_city_file(self, cities: list = None, countries: list = None):
         # select the latest file with the list of cities
         files = list(Path(self.path_source_file).glob("*.csv"))
         latest_file = max(files, key=lambda f: f.stem) if files else None
 
+        # normalize filters to lowercase sets for case-insensitive matching
+        filter_cities = {c.lower() for c in cities} if cities else None
+        filter_countries = {c.lower() for c in countries} if countries else None
+
         columns = []  # represent the columns of the file ("country", "city", "id")
-        cities = {}
+        cities_to_scrap = {}
         if latest_file:
             with open(latest_file, "r") as f:
                 for line in f:
                     columns = line.replace('\n', '').split(";")
-                    country =  re.sub(r'[\\\/]', '', columns[0].replace('"', '')) 
-                    city_name =  re.sub(r'[\\\/]', '', columns[1].replace('"', '')) 
-                    city_id =  re.sub(r'[\\\/]', '', columns[2].replace('"', '')) 
-                    
-                    cities[city_id] = [country, city_name] # 0: country_name, 1: city_name
+                    country =  re.sub(r'[\\\/]', '', columns[0].replace('"', ''))
+                    city_name =  re.sub(r'[\\\/]', '', columns[1].replace('"', ''))
+                    city_id =  re.sub(r'[\\\/]', '', columns[2].replace('"', ''))
 
-        if cities:
-            for key, value in cities.items():
-                response = requests.get(self.url_city_scrap)
+                    # apply filters if provided
+                    if filter_cities is not None or filter_countries is not None:
+                        match_city = filter_cities and city_name.lower() in filter_cities
+                        match_country = filter_countries and country.lower() in filter_countries
+                        if not (match_city or match_country):
+                            continue
+
+                    cities_to_scrap[city_id] = [country, city_name] # 0: country_name, 1: city_name
+
+        if cities_to_scrap:
+            for key, value in cities_to_scrap.items():
                 self.scrap_city_weather(country=value[0], city_name=value[1], city_id=key, file_name=latest_file.name)
+        else:
+            print("        No cities matched the given filters. Nothing was scrapped.         ")
     
 

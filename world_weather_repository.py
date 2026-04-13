@@ -11,6 +11,7 @@ from scrap_kaggle import ScrapKaggle
 from scrap_wmo import ScrapCitiesWmo
 from scrap_utils import ScrapUtil
 import json
+import argparse
 
 # Folder in which the remote files (kaggle) are downloaded locally
 SOURCE_FOLDER = Path("source_repository")
@@ -54,25 +55,40 @@ def _ensure_directory_structure():
 
 # main
 def main():
-    _ensure_directory_structure()
-    scrap_kaggle = ScrapKaggle()
-    ruta = scrap_kaggle._download_kaggle_repository("nelgiriyewithana/global-weather-repository", kaggle_folder["source"])
+    parser = argparse.ArgumentParser(description="World Weather Repository scraper")
+    parser.add_argument("--cities", nargs="+", metavar="CITY",
+                        help="Scrape only the specified city names (case-insensitive, exact match)")
+    parser.add_argument("--countries", nargs="+", metavar="COUNTRY",
+                        help="Scrape all cities within the specified countries (case-insensitive, exact match)")
+    parser.add_argument("--skip-kaggle", action="store_true",
+                        help="Skip the Kaggle download and HDF5 conversion")
+    parser.add_argument("--update-city-list", action="store_true",
+                        help="Re-fetch the WMO city list before scraping (default: reuse latest cached)")
+    args = parser.parse_args()
 
-    #Converts the csv file downloaded to hdf5
-    ScrapUtil._convert_csv_to_hdf5(kaggle_folder["source"]/"GlobalWeatherRepository.csv", kaggle_folder["hdf5"]/"GlobalWeatherRepository.h5")
+    _ensure_directory_structure()
+
+    if not args.skip_kaggle:
+        scrap_kaggle = ScrapKaggle()
+        ruta = scrap_kaggle._download_kaggle_repository("nelgiriyewithana/global-weather-repository", kaggle_folder["source"])
+        ScrapUtil._convert_csv_to_hdf5(kaggle_folder["source"]/"GlobalWeatherRepository.csv", kaggle_folder["hdf5"]/"GlobalWeatherRepository.h5")
+    else:
+        print("        Skipping Kaggle download (--skip-kaggle)        ")
 
     # instantiate a scrap object for wmo
     scrap_cities_wmo = ScrapCitiesWmo(url_cities_list="https://worldweather.wmo.int/en/json/full_city_list.txt",
                                       path_source_files=wmo_folder["source"],
                                       url_city_scrap="https://worldweather.wmo.int/en/json/cityid_en.json")
-    
-    # scrap the list of cities and creates a file on output_path (cities_yyyymmdd_hhmmss)
-    cities_file_name = scrap_cities_wmo.scrap_cities_list()
-    print(f"        Cities file name: {cities_file_name}            ")
 
-    scrap_cities_wmo.scrap_weather_from_latest_city_file()
+    if args.update_city_list:
+        cities_file_name = scrap_cities_wmo.scrap_cities_list()
+        print(f"        Cities file name: {cities_file_name}            ")
+    else:
+        print("        Reusing latest cached city list (use --update-city-list to refresh)        ")
 
-    
+    scrap_cities_wmo.scrap_weather_from_latest_city_file(cities=args.cities, countries=args.countries)
+
+
 
 if __name__ == "__main__":
     main()
