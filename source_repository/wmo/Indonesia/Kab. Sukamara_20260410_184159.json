@@ -1,0 +1,66 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Sukamara",
+        "cityLatitude": "-2.606980000",
+        "cityLongitude": "111.312103000",
+        "cityId": 3390,
+        "isCapital": false,
+        "stationName": "Kab. Sukamara",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "23",
+                    "maxTemp": "30",
+                    "minTempF": "73",
+                    "maxTempF": "86",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "23",
+                    "maxTemp": "29",
+                    "minTempF": "73",
+                    "maxTempF": "84",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

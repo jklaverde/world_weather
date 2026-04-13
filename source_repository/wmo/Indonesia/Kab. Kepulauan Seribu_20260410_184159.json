@@ -1,0 +1,45 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Kepulauan Seribu",
+        "cityLatitude": "-5.987607000",
+        "cityLongitude": "106.825562000",
+        "cityId": 3186,
+        "isCapital": false,
+        "stationName": "Kab. Kepulauan Seribu",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "N/A",
+            "timeZone": "N/A",
+            "forecastDay": []
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

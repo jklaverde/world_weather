@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Wuxi",
+        "cityLatitude": "31.520000000",
+        "cityLongitude": "120.300000000",
+        "cityId": 1862,
+        "isCapital": false,
+        "stationName": "Wuxi",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 1,
+            "memName": "China",
+            "shortMemName": "",
+            "url": "www.cma.gov.cn/en2014/",
+            "orgName": "China Meteorological Administration",
+            "logo": "china_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 20:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "15",
+                    "maxTemp": "22",
+                    "minTempF": "59",
+                    "maxTempF": "72",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "15",
+                    "maxTemp": "17",
+                    "minTempF": "59",
+                    "maxTempF": "63",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "15",
+                    "maxTemp": "20",
+                    "minTempF": "59",
+                    "maxTempF": "68",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "14",
+                    "maxTemp": "21",
+                    "minTempF": "57",
+                    "maxTempF": "70",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "13",
+                    "maxTemp": "22",
+                    "minTempF": "55",
+                    "maxTempF": "72",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "13",
+                    "maxTemp": "21",
+                    "minTempF": "55",
+                    "maxTempF": "70",
+                    "weatherIcon": 2301
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Gaoxiong",
+        "cityLatitude": "22.620000000",
+        "cityLongitude": "120.270000000",
+        "cityId": 1838,
+        "isCapital": false,
+        "stationName": "Gaoxiong",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 1,
+            "memName": "China",
+            "shortMemName": "",
+            "url": "www.cma.gov.cn/en2014/",
+            "orgName": "China Meteorological Administration",
+            "logo": "china_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 20:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "33",
+                    "minTempF": "75",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "33",
+                    "minTempF": "75",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "33",
+                    "minTempF": "75",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "33",
+                    "minTempF": "75",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "24",
+                    "maxTemp": "33",
+                    "minTempF": "75",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "25",
+                    "maxTemp": "33",
+                    "minTempF": "77",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Fushun",
+        "cityLatitude": "41.820000000",
+        "cityLongitude": "123.850000000",
+        "cityId": 1837,
+        "isCapital": false,
+        "stationName": "Fushun",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 1,
+            "memName": "China",
+            "shortMemName": "",
+            "url": "www.cma.gov.cn/en2014/",
+            "orgName": "China Meteorological Administration",
+            "logo": "china_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 20:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "1",
+                    "maxTemp": "15",
+                    "minTempF": "34",
+                    "maxTempF": "59",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "2",
+                    "maxTemp": "23",
+                    "minTempF": "36",
+                    "maxTempF": "73",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "1",
+                    "maxTemp": "15",
+                    "minTempF": "34",
+                    "maxTempF": "59",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "3",
+                    "maxTemp": "18",
+                    "minTempF": "37",
+                    "maxTempF": "64",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "1",
+                    "maxTemp": "22",
+                    "minTempF": "34",
+                    "maxTempF": "72",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "6",
+                    "maxTemp": "24",
+                    "minTempF": "43",
+                    "maxTempF": "75",
+                    "weatherIcon": 2502
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

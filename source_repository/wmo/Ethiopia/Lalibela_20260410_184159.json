@@ -1,0 +1,211 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Lalibela",
+        "cityLatitude": "12.030000000",
+        "cityLongitude": "39.050000000",
+        "cityId": 1922,
+        "isCapital": false,
+        "stationName": "Lalibela",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0300",
+        "isDST": "N",
+        "member": {
+            "memId": 60,
+            "memName": "Ethiopia",
+            "shortMemName": "",
+            "url": "www.ethiomet.gov.et",
+            "orgName": "Ethiopian Meteorological Institute (EMI)",
+            "logo": "ethiopia_logo.png",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-08 09:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "14",
+                    "maxTemp": "22",
+                    "minTempF": "57",
+                    "maxTempF": "72",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "15",
+                    "maxTemp": "21",
+                    "minTempF": "59",
+                    "maxTempF": "70",
+                    "weatherIcon": 1502
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "Rainfall",
+            "raindef": "0.1",
+            "rainunit": "mm",
+            "datab": 1981,
+            "datae": 2010,
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": [
+                {
+                    "month": 1,
+                    "maxTemp": "25",
+                    "minTemp": "11",
+                    "meanTemp": null,
+                    "maxTempF": "77",
+                    "minTempF": "52",
+                    "meanTempF": null,
+                    "raindays": "2",
+                    "rainfall": "17",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 2,
+                    "maxTemp": "26",
+                    "minTemp": "13",
+                    "meanTemp": null,
+                    "maxTempF": "79",
+                    "minTempF": "55",
+                    "meanTempF": null,
+                    "raindays": "3",
+                    "rainfall": "23",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 3,
+                    "maxTemp": "27",
+                    "minTemp": "13",
+                    "meanTemp": null,
+                    "maxTempF": "80",
+                    "minTempF": "56",
+                    "meanTempF": null,
+                    "raindays": "7",
+                    "rainfall": "50",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 4,
+                    "maxTemp": "26",
+                    "minTemp": "14",
+                    "meanTemp": null,
+                    "maxTempF": "79",
+                    "minTempF": "56",
+                    "meanTempF": null,
+                    "raindays": "8",
+                    "rainfall": "66",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 5,
+                    "maxTemp": "26",
+                    "minTemp": "14",
+                    "meanTemp": null,
+                    "maxTempF": "79",
+                    "minTempF": "57",
+                    "meanTempF": null,
+                    "raindays": "7",
+                    "rainfall": "52",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 6,
+                    "maxTemp": "25",
+                    "minTemp": "14",
+                    "meanTemp": null,
+                    "maxTempF": "77",
+                    "minTempF": "56",
+                    "meanTempF": null,
+                    "raindays": "6",
+                    "rainfall": "43",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 7,
+                    "maxTemp": "20",
+                    "minTemp": "13",
+                    "meanTemp": null,
+                    "maxTempF": "69",
+                    "minTempF": "54",
+                    "meanTempF": null,
+                    "raindays": "23",
+                    "rainfall": "240",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 8,
+                    "maxTemp": "20",
+                    "minTemp": "12",
+                    "meanTemp": null,
+                    "maxTempF": "68",
+                    "minTempF": "54",
+                    "meanTempF": null,
+                    "raindays": "22",
+                    "rainfall": "260",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 9,
+                    "maxTemp": "23",
+                    "minTemp": "12",
+                    "meanTemp": null,
+                    "maxTempF": "73",
+                    "minTempF": "53",
+                    "meanTempF": null,
+                    "raindays": "8",
+                    "rainfall": "83",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 10,
+                    "maxTemp": "24",
+                    "minTemp": "12",
+                    "meanTemp": null,
+                    "maxTempF": "75",
+                    "minTempF": "53",
+                    "meanTempF": null,
+                    "raindays": "3",
+                    "rainfall": "26",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 11,
+                    "maxTemp": "25",
+                    "minTemp": "11",
+                    "meanTemp": null,
+                    "maxTempF": "77",
+                    "minTempF": "52",
+                    "meanTempF": null,
+                    "raindays": "2",
+                    "rainfall": "15",
+                    "climateFromMemDate": "2013-06-10"
+                },
+                {
+                    "month": 12,
+                    "maxTemp": "24",
+                    "minTemp": "11",
+                    "meanTemp": null,
+                    "maxTempF": "76",
+                    "minTempF": "52",
+                    "meanTempF": null,
+                    "raindays": "1",
+                    "rainfall": "19",
+                    "climateFromMemDate": "2013-06-10"
+                }
+            ]
+        }
+    }
+}

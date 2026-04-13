@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Thies",
+        "cityLatitude": "14.791050000",
+        "cityLongitude": "-16.930702000",
+        "cityId": 2931,
+        "isCapital": false,
+        "stationName": "Thies",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 48,
+            "memName": "Senegal",
+            "shortMemName": "",
+            "url": "www.anacim.sn",
+            "orgName": "Agence nationale de l'Aviation Civile et de la M\u00e9t\u00e9orologie (ANACIM)",
+            "logo": "senegal_logo.png",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 12:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "20",
+                    "maxTemp": "30",
+                    "minTempF": "68",
+                    "maxTempF": "86",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "20",
+                    "maxTemp": "33",
+                    "minTempF": "68",
+                    "maxTempF": "91",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "20",
+                    "maxTemp": "34",
+                    "minTempF": "68",
+                    "maxTempF": "93",
+                    "weatherIcon": 2201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

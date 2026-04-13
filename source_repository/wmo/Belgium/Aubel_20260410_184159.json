@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Aubel",
+        "cityLatitude": "50.700461000",
+        "cityLongitude": "5.851286000",
+        "cityId": 2320,
+        "isCapital": false,
+        "stationName": "Aubel",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0200",
+        "isDST": "Y",
+        "member": {
+            "memId": 53,
+            "memName": "Belgium",
+            "shortMemName": "",
+            "url": "www.meteo.be",
+            "orgName": "Institut Royal M\u00e9t\u00e9orologique",
+            "logo": "belgium_logo.png",
+            "ra": 6
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 11:00:01",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "",
+                    "maxTemp": "12",
+                    "minTempF": "",
+                    "maxTempF": "54",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "6",
+                    "maxTemp": "20",
+                    "minTempF": "43",
+                    "maxTempF": "68",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "5",
+                    "maxTemp": "13",
+                    "minTempF": "41",
+                    "maxTempF": "55",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "7",
+                    "maxTemp": "11",
+                    "minTempF": "45",
+                    "maxTempF": "52",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "4",
+                    "maxTemp": "15",
+                    "minTempF": "39",
+                    "maxTempF": "59",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "4",
+                    "maxTemp": "14",
+                    "minTempF": "39",
+                    "maxTempF": "57",
+                    "weatherIcon": 2001
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

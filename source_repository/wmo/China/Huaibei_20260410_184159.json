@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Huaibei",
+        "cityLatitude": "33.950000000",
+        "cityLongitude": "116.850000000",
+        "cityId": 1840,
+        "isCapital": false,
+        "stationName": "Huaibei",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 1,
+            "memName": "China",
+            "shortMemName": "",
+            "url": "www.cma.gov.cn/en2014/",
+            "orgName": "China Meteorological Administration",
+            "logo": "china_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 20:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "12",
+                    "maxTemp": "22",
+                    "minTempF": "54",
+                    "maxTempF": "72",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "12",
+                    "maxTemp": "19",
+                    "minTempF": "54",
+                    "maxTempF": "66",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "11",
+                    "maxTemp": "18",
+                    "minTempF": "52",
+                    "maxTempF": "64",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "10",
+                    "maxTemp": "13",
+                    "minTempF": "50",
+                    "maxTempF": "55",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "17",
+                    "minTempF": "57",
+                    "maxTempF": "63",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "19",
+                    "minTempF": "57",
+                    "maxTempF": "66",
+                    "weatherIcon": 2301
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

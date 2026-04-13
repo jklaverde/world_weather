@@ -1,0 +1,76 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Sedhiou",
+        "cityLatitude": "12.708060000",
+        "cityLongitude": "-15.556940000",
+        "cityId": 2929,
+        "isCapital": false,
+        "stationName": "Sedhiou",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 48,
+            "memName": "Senegal",
+            "shortMemName": "",
+            "url": "www.anacim.sn",
+            "orgName": "Agence nationale de l'Aviation Civile et de la M\u00e9t\u00e9orologie (ANACIM)",
+            "logo": "senegal_logo.png",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 12:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "24",
+                    "maxTemp": "41",
+                    "minTempF": "75",
+                    "maxTempF": "106",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "26",
+                    "maxTemp": "42",
+                    "minTempF": "79",
+                    "maxTempF": "108",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Sunny Periods",
+                    "minTemp": "26",
+                    "maxTemp": "42",
+                    "minTempF": "79",
+                    "maxTempF": "108",
+                    "weatherIcon": 2201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

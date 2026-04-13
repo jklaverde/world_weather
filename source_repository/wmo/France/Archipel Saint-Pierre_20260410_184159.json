@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Archipel Saint-Pierre",
+        "cityLatitude": "46.760000000",
+        "cityLongitude": "-56.180000000",
+        "cityId": 3624,
+        "isCapital": false,
+        "stationName": "Archipel Saint-Pierre",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": true,
+        "timeZone": "-0200",
+        "isDST": "Y",
+        "member": {
+            "memId": 210,
+            "memName": "France - Saint-Pierre-et-Miquelon",
+            "shortMemName": "",
+            "url": "www.meteo.fr/meteonet_en/index.htm",
+            "orgName": "M\u00e9t\u00e9o-France",
+            "logo": "france_logo.png",
+            "ra": 4
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 15:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "-1",
+                    "maxTemp": "5",
+                    "minTempF": "30",
+                    "maxTempF": "41",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Mist",
+                    "minTemp": "-4",
+                    "maxTemp": "6",
+                    "minTempF": "25",
+                    "maxTempF": "43",
+                    "weatherIcon": 1701
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Snow Showers",
+                    "minTemp": "-2",
+                    "maxTemp": "1",
+                    "minTempF": "28",
+                    "maxTempF": "34",
+                    "weatherIcon": 501
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Snow Showers",
+                    "minTemp": "-3",
+                    "maxTemp": "3",
+                    "minTempF": "27",
+                    "maxTempF": "37",
+                    "weatherIcon": 501
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Light Snow",
+                    "minTemp": "-1",
+                    "maxTemp": "1",
+                    "minTempF": "30",
+                    "maxTempF": "34",
+                    "weatherIcon": 701
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "-1",
+                    "maxTemp": "5",
+                    "minTempF": "30",
+                    "maxTempF": "41",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "-1",
+                    "maxTemp": "3",
+                    "minTempF": "30",
+                    "maxTempF": "37",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Heavy Showers",
+                    "minTemp": "1",
+                    "maxTemp": "4",
+                    "minTempF": "34",
+                    "maxTempF": "39",
+                    "weatherIcon": 902
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "2",
+                    "maxTemp": "3",
+                    "minTempF": "36",
+                    "maxTempF": "37",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "0",
+                    "maxTemp": "2",
+                    "minTempF": "32",
+                    "maxTempF": "36",
+                    "weatherIcon": 2402
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

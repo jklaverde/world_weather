@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Masterton",
+        "cityLatitude": "-40.976000000",
+        "cityLongitude": "175.639000000",
+        "cityId": 2117,
+        "isCapital": false,
+        "stationName": "Masterton",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1200",
+        "isDST": "N",
+        "member": {
+            "memId": 46,
+            "memName": "New Zealand",
+            "shortMemName": "",
+            "url": "www.metservice.co.nz",
+            "orgName": "New Zealand National Meteorological Service",
+            "logo": "new_zealand_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-03-28 20:55:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Drizzle",
+                    "minTemp": "11",
+                    "maxTemp": "22",
+                    "minTempF": "52",
+                    "maxTempF": "72",
+                    "weatherIcon": 1501
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Windy",
+                    "minTemp": "16",
+                    "maxTemp": "20",
+                    "minTempF": "61",
+                    "maxTempF": "68",
+                    "weatherIcon": 2601
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "16",
+                    "maxTemp": "21",
+                    "minTempF": "61",
+                    "maxTempF": "70",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "10",
+                    "maxTemp": "18",
+                    "minTempF": "50",
+                    "maxTempF": "64",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "8",
+                    "maxTemp": "17",
+                    "minTempF": "46",
+                    "maxTempF": "63",
+                    "weatherIcon": 901
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

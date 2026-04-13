@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Patiala",
+        "cityLatitude": "30.380000000",
+        "cityLongitude": "76.430000000",
+        "cityId": 1641,
+        "isCapital": false,
+        "stationName": "Patiala",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0530",
+        "isDST": "N",
+        "member": {
+            "memId": 66,
+            "memName": "India",
+            "shortMemName": "",
+            "url": "mausam.imd.gov.in",
+            "orgName": "India Meteorological Department",
+            "logo": "india_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 15:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "14",
+                    "maxTemp": "31",
+                    "minTempF": "57",
+                    "maxTempF": "88",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "15",
+                    "maxTemp": "31",
+                    "minTempF": "59",
+                    "maxTempF": "88",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "15",
+                    "maxTemp": "32",
+                    "minTempF": "59",
+                    "maxTempF": "90",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "16",
+                    "maxTemp": "32",
+                    "minTempF": "61",
+                    "maxTempF": "90",
+                    "weatherIcon": 2502
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "16",
+                    "maxTemp": "33",
+                    "minTempF": "61",
+                    "maxTempF": "91",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Clear",
+                    "minTemp": "16",
+                    "maxTemp": "33",
+                    "minTempF": "61",
+                    "maxTempF": "91",
+                    "weatherIcon": 2502
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

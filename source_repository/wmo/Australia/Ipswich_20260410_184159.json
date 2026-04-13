@@ -1,0 +1,251 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Ipswich",
+        "cityLatitude": "-27.620000000",
+        "cityLongitude": "152.760000000",
+        "cityId": 419,
+        "isCapital": false,
+        "stationName": "IPSWICH",
+        "tourismURL": "www.tourism.australia.com",
+        "tourismBoardName": "Australian Tourist Commission",
+        "isDep": false,
+        "timeZone": "+1000",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-09 18:35:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "16",
+                    "maxTemp": "34",
+                    "minTempF": "61",
+                    "maxTempF": "93",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "16",
+                    "maxTemp": "32",
+                    "minTempF": "61",
+                    "maxTempF": "90",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "12",
+                    "maxTemp": "29",
+                    "minTempF": "54",
+                    "maxTempF": "84",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "13",
+                    "maxTemp": "29",
+                    "minTempF": "55",
+                    "maxTempF": "84",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "13",
+                    "maxTemp": "29",
+                    "minTempF": "55",
+                    "maxTempF": "84",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "29",
+                    "minTempF": "57",
+                    "maxTempF": "84",
+                    "weatherIcon": 2202
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "Rainfall",
+            "raindef": "",
+            "rainunit": "mm",
+            "datab": 1981,
+            "datae": 2010,
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": [
+                {
+                    "month": 1,
+                    "maxTemp": "31.4",
+                    "minTemp": "19.4",
+                    "meanTemp": null,
+                    "maxTempF": "88.5",
+                    "minTempF": "66.9",
+                    "meanTempF": null,
+                    "raindays": "10.3",
+                    "rainfall": "89.9",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 2,
+                    "maxTemp": "30.7",
+                    "minTemp": "19.2",
+                    "meanTemp": null,
+                    "maxTempF": "87.3",
+                    "minTempF": "66.6",
+                    "meanTempF": null,
+                    "raindays": "10.6",
+                    "rainfall": "102.1",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 3,
+                    "maxTemp": "29.6",
+                    "minTemp": "17.1",
+                    "meanTemp": null,
+                    "maxTempF": "85.3",
+                    "minTempF": "62.8",
+                    "meanTempF": null,
+                    "raindays": "9.7",
+                    "rainfall": "63.4",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 4,
+                    "maxTemp": "27.3",
+                    "minTemp": "13.7",
+                    "meanTemp": null,
+                    "maxTempF": "81.1",
+                    "minTempF": "56.7",
+                    "meanTempF": null,
+                    "raindays": "8.0",
+                    "rainfall": "68.8",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 5,
+                    "maxTemp": "24.4",
+                    "minTemp": "10.0",
+                    "meanTemp": null,
+                    "maxTempF": "75.9",
+                    "minTempF": "50.0",
+                    "meanTempF": null,
+                    "raindays": "8.2",
+                    "rainfall": "66.2",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 6,
+                    "maxTemp": "21.8",
+                    "minTemp": "6.4",
+                    "meanTemp": null,
+                    "maxTempF": "71.2",
+                    "minTempF": "43.5",
+                    "meanTempF": null,
+                    "raindays": "6.3",
+                    "rainfall": "39.2",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 7,
+                    "maxTemp": "21.5",
+                    "minTemp": "5.0",
+                    "meanTemp": null,
+                    "maxTempF": "70.7",
+                    "minTempF": "41.0",
+                    "meanTempF": null,
+                    "raindays": "6.9",
+                    "rainfall": "32.3",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 8,
+                    "maxTemp": "23.1",
+                    "minTemp": "5.6",
+                    "meanTemp": null,
+                    "maxTempF": "73.6",
+                    "minTempF": "42.1",
+                    "meanTempF": null,
+                    "raindays": "5.8",
+                    "rainfall": "27.6",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 9,
+                    "maxTemp": "26.3",
+                    "minTemp": "9.3",
+                    "meanTemp": null,
+                    "maxTempF": "79.3",
+                    "minTempF": "48.7",
+                    "meanTempF": null,
+                    "raindays": "6.0",
+                    "rainfall": "33.3",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 10,
+                    "maxTemp": "28.1",
+                    "minTemp": "12.9",
+                    "meanTemp": null,
+                    "maxTempF": "82.6",
+                    "minTempF": "55.2",
+                    "meanTempF": null,
+                    "raindays": "8.4",
+                    "rainfall": "67.3",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 11,
+                    "maxTemp": "29.2",
+                    "minTemp": "15.9",
+                    "meanTemp": null,
+                    "maxTempF": "84.6",
+                    "minTempF": "60.6",
+                    "meanTempF": null,
+                    "raindays": "9.9",
+                    "rainfall": "89.2",
+                    "climateFromMemDate": "2002-03-23"
+                },
+                {
+                    "month": 12,
+                    "maxTemp": "30.8",
+                    "minTemp": "18.2",
+                    "meanTemp": null,
+                    "maxTempF": "87.4",
+                    "minTempF": "64.8",
+                    "meanTempF": null,
+                    "raindays": "11.5",
+                    "rainfall": "124.5",
+                    "climateFromMemDate": "2002-03-23"
+                }
+            ]
+        }
+    }
+}

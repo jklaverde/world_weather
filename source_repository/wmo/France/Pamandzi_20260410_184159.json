@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Pamandzi",
+        "cityLatitude": "-12.800000000",
+        "cityLongitude": "45.280000000",
+        "cityId": 3625,
+        "isCapital": false,
+        "stationName": "Pamandzi",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": true,
+        "timeZone": "+0300",
+        "isDST": "N",
+        "member": {
+            "memId": 211,
+            "memName": "France - Mayotte",
+            "shortMemName": "",
+            "url": "www.meteo.fr/meteonet_en/index.htm",
+            "orgName": "M\u00e9t\u00e9o-France",
+            "logo": "france_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 15:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "26",
+                    "maxTemp": "32",
+                    "minTempF": "79",
+                    "maxTempF": "90",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "26",
+                    "maxTemp": "32",
+                    "minTempF": "79",
+                    "maxTempF": "90",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "26",
+                    "maxTemp": "33",
+                    "minTempF": "79",
+                    "maxTempF": "91",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "26",
+                    "maxTemp": "32",
+                    "minTempF": "79",
+                    "maxTempF": "90",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "25",
+                    "maxTemp": "32",
+                    "minTempF": "77",
+                    "maxTempF": "90",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "25",
+                    "maxTemp": "31",
+                    "minTempF": "77",
+                    "maxTempF": "88",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "25",
+                    "maxTemp": "31",
+                    "minTempF": "77",
+                    "maxTempF": "88",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "25",
+                    "maxTemp": "30",
+                    "minTempF": "77",
+                    "maxTempF": "86",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "28",
+                    "maxTemp": "29",
+                    "minTempF": "82",
+                    "maxTempF": "84",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "27",
+                    "maxTemp": "30",
+                    "minTempF": "81",
+                    "maxTempF": "86",
+                    "weatherIcon": 2402
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

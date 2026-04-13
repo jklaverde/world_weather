@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Dannevirke",
+        "cityLatitude": "-40.200000000",
+        "cityLongitude": "176.100000000",
+        "cityId": 2108,
+        "isCapital": false,
+        "stationName": "Dannevirke",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+1200",
+        "isDST": "N",
+        "member": {
+            "memId": 46,
+            "memName": "New Zealand",
+            "shortMemName": "",
+            "url": "www.metservice.co.nz",
+            "orgName": "New Zealand National Meteorological Service",
+            "logo": "new_zealand_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-03-28 20:55:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Drizzle",
+                    "minTemp": "11",
+                    "maxTemp": "20",
+                    "minTempF": "52",
+                    "maxTempF": "68",
+                    "weatherIcon": 1501
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Windy",
+                    "minTemp": "16",
+                    "maxTemp": "19",
+                    "minTempF": "61",
+                    "maxTempF": "66",
+                    "weatherIcon": 2601
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "15",
+                    "maxTemp": "20",
+                    "minTempF": "59",
+                    "maxTempF": "68",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Showers",
+                    "minTemp": "10",
+                    "maxTemp": "17",
+                    "minTempF": "50",
+                    "maxTempF": "63",
+                    "weatherIcon": 901
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "8",
+                    "maxTemp": "15",
+                    "minTempF": "46",
+                    "maxTempF": "59",
+                    "weatherIcon": 2202
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

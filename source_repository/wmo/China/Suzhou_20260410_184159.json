@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Suzhou",
+        "cityLatitude": "31.300000000",
+        "cityLongitude": "120.670000000",
+        "cityId": 1857,
+        "isCapital": false,
+        "stationName": "Suzhou",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 1,
+            "memName": "China",
+            "shortMemName": "",
+            "url": "www.cma.gov.cn/en2014/",
+            "orgName": "China Meteorological Administration",
+            "logo": "china_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 20:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "15",
+                    "maxTemp": "21",
+                    "minTempF": "59",
+                    "maxTempF": "70",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "14",
+                    "maxTemp": "18",
+                    "minTempF": "57",
+                    "maxTempF": "64",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "15",
+                    "maxTemp": "20",
+                    "minTempF": "59",
+                    "maxTempF": "68",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Overcast",
+                    "minTemp": "14",
+                    "maxTemp": "21",
+                    "minTempF": "57",
+                    "maxTempF": "70",
+                    "weatherIcon": 2001
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "21",
+                    "minTempF": "57",
+                    "maxTempF": "70",
+                    "weatherIcon": 2301
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Cloudy",
+                    "minTemp": "14",
+                    "maxTemp": "21",
+                    "minTempF": "57",
+                    "maxTempF": "70",
+                    "weatherIcon": 2301
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

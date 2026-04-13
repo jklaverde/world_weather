@@ -1,0 +1,96 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Navrongo",
+        "cityLatitude": "10.880000000",
+        "cityLongitude": "-1.080000000",
+        "cityId": 1386,
+        "isCapital": false,
+        "stationName": "Navrongo",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0000",
+        "isDST": "N",
+        "member": {
+            "memId": 151,
+            "memName": "Ghana",
+            "shortMemName": "",
+            "url": "www.meteo.gov.gh",
+            "orgName": "Ghana Meteorological Agency",
+            "logo": "ghana_logo.jpg",
+            "ra": 1
+        },
+        "forecast": {
+            "issueDate": "2026-04-09 17:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "30",
+                    "maxTemp": "42",
+                    "minTempF": "86",
+                    "maxTempF": "108",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "29",
+                    "maxTemp": "42",
+                    "minTempF": "84",
+                    "maxTempF": "108",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "29",
+                    "maxTemp": "41",
+                    "minTempF": "84",
+                    "maxTempF": "106",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "SUNNY PERIODS",
+                    "weather": "Sunny Periods",
+                    "minTemp": "29",
+                    "maxTemp": "41",
+                    "minTempF": "84",
+                    "maxTempF": "106",
+                    "weatherIcon": 2201
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "SUNNY PERIODS, THUNDERSTORMS",
+                    "weather": "Thunderstorms",
+                    "minTemp": "29",
+                    "maxTemp": "41",
+                    "minTempF": "84",
+                    "maxTempF": "106",
+                    "weatherIcon": 201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

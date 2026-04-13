@@ -1,0 +1,106 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Wadeye",
+        "cityLatitude": "-14.230000000",
+        "cityLongitude": "129.520000000",
+        "cityId": 1742,
+        "isCapital": false,
+        "stationName": "Wadeye",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0930",
+        "isDST": "N",
+        "member": {
+            "memId": 185,
+            "memName": "Australia",
+            "shortMemName": "",
+            "url": "www.bom.gov.au",
+            "orgName": "Bureau of Meteorology",
+            "logo": "australia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 08:18:21",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "24",
+                    "maxTemp": "35",
+                    "minTempF": "75",
+                    "maxTempF": "95",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "24",
+                    "maxTemp": "36",
+                    "minTempF": "75",
+                    "maxTempF": "97",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "24",
+                    "maxTemp": "37",
+                    "minTempF": "75",
+                    "maxTempF": "99",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "22",
+                    "maxTemp": "35",
+                    "minTempF": "72",
+                    "maxTempF": "95",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "21",
+                    "maxTemp": "36",
+                    "minTempF": "70",
+                    "maxTempF": "97",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "22",
+                    "maxTemp": "36",
+                    "minTempF": "72",
+                    "maxTempF": "97",
+                    "weatherIcon": 2402
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

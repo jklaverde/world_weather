@@ -1,0 +1,66 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Manggarai",
+        "cityLatitude": "-8.567530000",
+        "cityLongitude": "120.572070000",
+        "cityId": 3256,
+        "isCapital": false,
+        "stationName": "Kab. Manggarai",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0800",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Thunderstorms",
+                    "minTemp": "16",
+                    "maxTemp": "26",
+                    "minTempF": "61",
+                    "maxTempF": "79",
+                    "weatherIcon": 201
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Thunderstorms",
+                    "minTemp": "15",
+                    "maxTemp": "24",
+                    "minTempF": "59",
+                    "maxTempF": "75",
+                    "weatherIcon": 201
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

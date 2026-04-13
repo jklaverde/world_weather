@@ -1,0 +1,66 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Kab. Banjarnegara",
+        "cityLatitude": "-7.352840000",
+        "cityLongitude": "109.639060000",
+        "cityId": 3062,
+        "isCapital": false,
+        "stationName": "Kab. Banjarnegara",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0700",
+        "isDST": "N",
+        "member": {
+            "memId": 43,
+            "memName": "Indonesia",
+            "shortMemName": "",
+            "url": "www.bmkg.go.id",
+            "orgName": "Meteorological, Climatological and Geophysical Agency (BMKG)",
+            "logo": "indonesia_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 01:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "20",
+                    "maxTemp": "26",
+                    "minTempF": "68",
+                    "maxTempF": "79",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "20",
+                    "maxTemp": "27",
+                    "minTempF": "68",
+                    "maxTempF": "81",
+                    "weatherIcon": 1401
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

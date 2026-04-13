@@ -1,0 +1,221 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Surgut",
+        "cityLatitude": "61.230000000",
+        "cityLongitude": "73.400000000",
+        "cityId": 1039,
+        "isCapital": false,
+        "stationName": "Surgut",
+        "tourismURL": "www.russiatourism.ru/eng",
+        "tourismBoardName": "Tourism Department",
+        "isDep": false,
+        "timeZone": "+0500",
+        "isDST": "N",
+        "member": {
+            "memId": 107,
+            "memName": "Russian Federation",
+            "shortMemName": "",
+            "url": "www.meteorf.ru",
+            "orgName": "Russian Federal Service for Hydrometeorology and Environmental Monitoring",
+            "logo": "russian_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 18:05:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Sleet",
+                    "minTemp": "-12",
+                    "maxTemp": "1",
+                    "minTempF": "10",
+                    "maxTempF": "34",
+                    "weatherIcon": 801
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Sleet",
+                    "minTemp": "-3",
+                    "maxTemp": "2",
+                    "minTempF": "27",
+                    "maxTempF": "36",
+                    "weatherIcon": 801
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Fine",
+                    "minTemp": "-10",
+                    "maxTemp": "-3",
+                    "minTempF": "14",
+                    "maxTempF": "27",
+                    "weatherIcon": 2501
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "PPT",
+            "raindef": "",
+            "rainunit": "mm",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": [
+                {
+                    "month": 1,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 2,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 3,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 4,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 5,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 6,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 7,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 8,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 9,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 10,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 11,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                },
+                {
+                    "month": 12,
+                    "maxTemp": null,
+                    "minTemp": null,
+                    "meanTemp": null,
+                    "maxTempF": null,
+                    "minTempF": null,
+                    "meanTempF": null,
+                    "raindays": null,
+                    "rainfall": null,
+                    "climateFromMemDate": ""
+                }
+            ]
+        }
+    }
+}

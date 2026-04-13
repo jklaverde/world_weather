@@ -1,0 +1,86 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Qalhat",
+        "cityLatitude": "22.700000000",
+        "cityLongitude": "59.350000000",
+        "cityId": 1636,
+        "isCapital": false,
+        "stationName": "Qalhat",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0400",
+        "isDST": "N",
+        "member": {
+            "memId": 30,
+            "memName": "Oman",
+            "shortMemName": "",
+            "url": "met.gov.om/",
+            "orgName": "Directorate General of Meteorology - Civil Aviation Authority",
+            "logo": "oman_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-09 11:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "24",
+                    "maxTemp": "27",
+                    "minTempF": "75",
+                    "maxTempF": "81",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 1502
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Fine",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 2501
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Fine",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 2501
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

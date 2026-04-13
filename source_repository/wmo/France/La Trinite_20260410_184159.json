@@ -1,0 +1,146 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "La Trinite",
+        "cityLatitude": "14.740000000",
+        "cityLongitude": "-60.990000000",
+        "cityId": 3618,
+        "isCapital": false,
+        "stationName": "La Trinite",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": true,
+        "timeZone": "-0400",
+        "isDST": "N",
+        "member": {
+            "memId": 189,
+            "memName": "France - Martinique",
+            "shortMemName": "",
+            "url": "www.meteo.fr/meteonet_en/index.htm",
+            "orgName": "M\u00e9t\u00e9o-France",
+            "logo": "france_logo.png",
+            "ra": 4
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 15:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "23",
+                    "maxTemp": "29",
+                    "minTempF": "73",
+                    "maxTempF": "84",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "23",
+                    "maxTemp": "28",
+                    "minTempF": "73",
+                    "maxTempF": "82",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "24",
+                    "maxTemp": "29",
+                    "minTempF": "75",
+                    "maxTempF": "84",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "24",
+                    "maxTemp": "28",
+                    "minTempF": "75",
+                    "maxTempF": "82",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "24",
+                    "maxTemp": "27",
+                    "minTempF": "75",
+                    "maxTempF": "81",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "24",
+                    "maxTemp": "26",
+                    "minTempF": "75",
+                    "maxTempF": "79",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Rain",
+                    "minTemp": "21",
+                    "maxTemp": "25",
+                    "minTempF": "70",
+                    "maxTempF": "77",
+                    "weatherIcon": 1401
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "22",
+                    "maxTemp": "26",
+                    "minTempF": "72",
+                    "maxTempF": "79",
+                    "weatherIcon": 1101
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

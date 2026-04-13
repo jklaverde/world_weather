@@ -1,0 +1,136 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Alo",
+        "cityLatitude": "-14.297100000",
+        "cityLongitude": "-178.109000000",
+        "cityId": 3626,
+        "isCapital": false,
+        "stationName": "Alo",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": true,
+        "timeZone": "+1200",
+        "isDST": "N",
+        "member": {
+            "memId": 212,
+            "memName": "France - Wallis-et-Futuna",
+            "shortMemName": "",
+            "url": "www.meteo.fr/meteonet_en/index.htm",
+            "orgName": "M\u00e9t\u00e9o-France",
+            "logo": "france_logo.png",
+            "ra": 5
+        },
+        "forecast": {
+            "issueDate": "2026-04-10 15:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "27",
+                    "maxTemp": "31",
+                    "minTempF": "81",
+                    "maxTempF": "88",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "27",
+                    "maxTemp": "31",
+                    "minTempF": "81",
+                    "maxTempF": "88",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Scattered Showers",
+                    "minTemp": "27",
+                    "maxTemp": "30",
+                    "minTempF": "81",
+                    "maxTempF": "86",
+                    "weatherIcon": 1002
+                },
+                {
+                    "forecastDate": "2026-04-14",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "27",
+                    "maxTemp": "31",
+                    "minTempF": "81",
+                    "maxTempF": "88",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-15",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "27",
+                    "maxTemp": "29",
+                    "minTempF": "81",
+                    "maxTempF": "84",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-16",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "27",
+                    "maxTemp": "28",
+                    "minTempF": "81",
+                    "maxTempF": "82",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-17",
+                    "wxdesc": "",
+                    "weather": "Isolated Showers",
+                    "minTemp": "27",
+                    "maxTemp": "28",
+                    "minTempF": "81",
+                    "maxTempF": "82",
+                    "weatherIcon": 1101
+                },
+                {
+                    "forecastDate": "2026-04-18",
+                    "wxdesc": "",
+                    "weather": "Sunny",
+                    "minTemp": "27",
+                    "maxTemp": "28",
+                    "minTempF": "81",
+                    "maxTempF": "82",
+                    "weatherIcon": 2402
+                },
+                {
+                    "forecastDate": "2026-04-19",
+                    "wxdesc": "",
+                    "weather": "Light Rain",
+                    "minTemp": "27",
+                    "maxTemp": "28",
+                    "minTempF": "81",
+                    "maxTempF": "82",
+                    "weatherIcon": 1502
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}

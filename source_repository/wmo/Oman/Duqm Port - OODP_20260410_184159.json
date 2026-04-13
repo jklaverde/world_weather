@@ -1,0 +1,86 @@
+{
+    "city": {
+        "lang": "en",
+        "cityName": "Duqm Port - OODP",
+        "cityLatitude": "19.686276000",
+        "cityLongitude": "57.726885000",
+        "cityId": 2958,
+        "isCapital": false,
+        "stationName": "Duqm Port - OODP",
+        "tourismURL": "",
+        "tourismBoardName": "",
+        "isDep": false,
+        "timeZone": "+0400",
+        "isDST": "N",
+        "member": {
+            "memId": 30,
+            "memName": "Oman",
+            "shortMemName": "",
+            "url": "met.gov.om/",
+            "orgName": "Directorate General of Meteorology - Civil Aviation Authority",
+            "logo": "oman_logo.png",
+            "ra": 2
+        },
+        "forecast": {
+            "issueDate": "2026-04-09 11:00:00",
+            "timeZone": "Local",
+            "forecastDay": [
+                {
+                    "forecastDate": "2026-04-10",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "25",
+                    "maxTemp": "25",
+                    "minTempF": "77",
+                    "maxTempF": "77",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-11",
+                    "wxdesc": "",
+                    "weather": "Partly Cloudy",
+                    "minTemp": "24",
+                    "maxTemp": "26",
+                    "minTempF": "75",
+                    "maxTempF": "79",
+                    "weatherIcon": 2202
+                },
+                {
+                    "forecastDate": "2026-04-12",
+                    "wxdesc": "",
+                    "weather": "Fine",
+                    "minTemp": "24",
+                    "maxTemp": "26",
+                    "minTempF": "75",
+                    "maxTempF": "79",
+                    "weatherIcon": 2501
+                },
+                {
+                    "forecastDate": "2026-04-13",
+                    "wxdesc": "",
+                    "weather": "Fine",
+                    "minTemp": "25",
+                    "maxTemp": "27",
+                    "minTempF": "77",
+                    "maxTempF": "81",
+                    "weatherIcon": 2501
+                }
+            ]
+        },
+        "climate": {
+            "raintype": "N/A",
+            "raindef": "",
+            "rainunit": "",
+            "datab": "",
+            "datae": "",
+            "tempb": "",
+            "tempe": "",
+            "rdayb": "",
+            "rdaye": "",
+            "rainfallb": "",
+            "rainfalle": "",
+            "climatefromclino": "",
+            "climateMonth": []
+        }
+    }
+}
